@@ -1,0 +1,10 @@
+Id: khetsokhan.freesoftware
+Name: Free Software
+Publisher: Your Name or Organization
+Version: 1.0.0
+License: MIT
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    Url: https://github.com/khetsokhan/freesoftware/releases/latest/download/MySoftware.exe
+    Sha256: <FileHash>
